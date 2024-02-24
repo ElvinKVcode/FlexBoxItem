@@ -1,0 +1,49 @@
+nav {
+    display: flex;
+    background-color: grey;
+    justify-content: space-between;
+    height: 100px;
+    align-items: center;
+    padding: 0px 20px;
+}
+
+.list-header ul {
+    display: flex;
+    gap: 15px;
+
+}
+
+.list-header ul li {
+    list-style: none;
+}
+
+.logo-header h3 span {
+    color: green;
+}
+
+.img-section {
+    width: 100%;
+}
+
+.img-section img {
+    width: 100%;
+}
+
+.galery div {
+    width: 22%;
+}
+
+.galery div img {
+    width: 100%;
+}
+.galery{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+.project{
+    margin-top: 50px;
+}
+
+
